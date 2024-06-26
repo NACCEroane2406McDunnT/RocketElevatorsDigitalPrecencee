@@ -1,2 +1,2 @@
 # RocketElevatorsDigitalPrecencee
-Modifying Smarty Template into Rocket Elevators website
+Modifying Rocket Elevators Template into Rocket Elevators website

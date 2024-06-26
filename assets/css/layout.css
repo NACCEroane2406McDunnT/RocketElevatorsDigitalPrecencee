@@ -528,7 +528,7 @@ body.grain-blue div.heading-title h3,
 body.grain-blue div.heading-title h4,
 body.grain-blue div.heading-title h5,
 body.grain-blue div.heading-title h6 {
-    background: #dce4e9 url("../images/_smarty/grain_bg.png") repeat;
+    background: #dce4e9 url("../images/_Rocket Elevators/grain_bg.png") repeat;
 }
 /* 
 		GRAIN GREY BACKGROUND 
@@ -545,7 +545,7 @@ body.grain-grey div.heading-title h3,
 body.grain-grey div.heading-title h4,
 body.grain-grey div.heading-title h5,
 body.grain-grey div.heading-title h6 {
-    background: #f1f2f7 url("../images/_smarty/grain_bg.png") repeat;
+    background: #f1f2f7 url("../images/_Rocket Elevators/grain_bg.png") repeat;
 }
 /* 
 		GRAIN GREEN BACKGROUND 
@@ -562,7 +562,7 @@ body.grain-green div.heading-title h3,
 body.grain-green div.heading-title h4,
 body.grain-green div.heading-title h5,
 body.grain-green div.heading-title h6 {
-    background: #e6eeea url("../images/_smarty/grain_bg.png") repeat;
+    background: #e6eeea url("../images/_Rocket Elevators/grain_bg.png") repeat;
 }
 /* 
 		GRAIN ORANGE BACKGROUND 
@@ -579,7 +579,7 @@ body.grain-orange div.heading-title h3,
 body.grain-orange div.heading-title h4,
 body.grain-orange div.heading-title h5,
 body.grain-orange div.heading-title h6 {
-    background: #fff4ea url("../images/_smarty/grain_bg.png") repeat;
+    background: #fff4ea url("../images/_Rocket Elevators/grain_bg.png") repeat;
 }
 /* 
 		GRAIN YELLOW BACKGROUND 
@@ -596,7 +596,7 @@ body.grain-yellow div.heading-title h3,
 body.grain-yellow div.heading-title h4,
 body.grain-yellow div.heading-title h5,
 body.grain-yellow div.heading-title h6 {
-    background: #ffffe6 url("../images/_smarty/grain_bg.png") repeat;
+    background: #ffffe6 url("../images/_Rocket Elevators/grain_bg.png") repeat;
 }
 
 /* essentials.css rewrite : heading shortcode */
@@ -993,7 +993,7 @@ section.page-header.shadow-after-1:before {
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow1.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow1.png");
     background-size: 100% 100%;
 }
 section.page-header.shadow-after-2:before {
@@ -1004,7 +1004,7 @@ section.page-header.shadow-after-2:before {
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow2.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow2.png");
     background-size: 100% 100%;
 }
 section.page-header.shadow-after-3:before {
@@ -1015,7 +1015,7 @@ section.page-header.shadow-after-3:before {
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow3.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow3.png");
     background-size: 100% 100%;
 }
 
@@ -1428,7 +1428,7 @@ body.menu-vertical
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow1.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow1.png");
     background-size: 100% 100%;
 }
 #header.shadow-before-1:before {
@@ -1439,7 +1439,7 @@ body.menu-vertical
     top: 0;
     width: 100%;
     height: 60px;
-    background-image: url("../images/_smarty/misc/shadow1.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow1.png");
     background-size: 100% 100%;
 }
 
@@ -1451,7 +1451,7 @@ body.menu-vertical
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow2.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow2.png");
     background-size: 100% 100%;
 }
 #header.shadow-before-2:before {
@@ -1462,7 +1462,7 @@ body.menu-vertical
     top: 0;
     width: 100%;
     height: 60px;
-    background-image: url("../images/_smarty/misc/shadow2.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow2.png");
     background-size: 100% 100%;
 }
 #header.shadow-after-3:before {
@@ -1473,7 +1473,7 @@ body.menu-vertical
     width: 100%;
     height: 60px;
     bottom: -60px;
-    background-image: url("../images/_smarty/misc/shadow3.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow3.png");
     background-size: 100% 100%;
 }
 #header.shadow-before-3:before {
@@ -1484,7 +1484,7 @@ body.menu-vertical
     top: 0;
     width: 100%;
     height: 60px;
-    background-image: url("../images/_smarty/misc/shadow3.png");
+    background-image: url("../images/_Rocket Elevators/misc/shadow3.png");
     background-size: 100% 100%;
 }
 
@@ -1955,7 +1955,7 @@ body.menu-vertical
     .navbar-nav
     > li
     > a.dropdown-toggle {
-    background-image: url("../images/_smarty/submenu_light.png");
+    background-image: url("../images/_Rocket Elevators/submenu_light.png");
     background-position: center right;
     background-repeat: no-repeat;
 }
@@ -2358,7 +2358,7 @@ body.menu-vertical
     .navbar-nav
     > li
     > a.dropdown-toggle {
-    background-image: url("../images/_smarty/submenu_dark.png");
+    background-image: url("../images/_Rocket Elevators/submenu_dark.png");
 }
 body.menu-vertical
     #mainMenu.sidebar-vertical.sidebar-dark
@@ -3858,7 +3858,7 @@ body.boxed #topBar.dark ul.top-links > li {
 
 /* LIGHT SUBMENU */
 #topNav ul.dropdown-menu a.dropdown-toggle {
-    background-image: url("../images/_smarty/submenu_light.png");
+    background-image: url("../images/_Rocket Elevators/submenu_light.png");
 }
 
 /* DARK SUBMENU */
@@ -3867,7 +3867,7 @@ body.boxed #topBar.dark ul.top-links > li {
     background-color: #333;
 }
 #topNav div.submenu-dark ul.dropdown-menu a.dropdown-toggle {
-    background-image: url("../images/_smarty/submenu_dark.png");
+    background-image: url("../images/_Rocket Elevators/submenu_dark.png");
 }
 #topNav div.submenu-dark ul.dropdown-menu li.active > a,
 #topNav div.submenu-dark ul.dropdown-menu li.active:hover > a,
@@ -4680,7 +4680,7 @@ section.dark .event-item {
 				<i class="fa fa-bullhorn"></i> 
 				STICKY POST
 			</span>
-			<img class="img-fluid" src="assets/images/_smarty/demo/thematics/music/i3-min.jpg" alt="image" />
+			<img class="img-fluid" src="assets/images/_Rocket Elevators/demo/thematics/music/i3-min.jpg" alt="image" />
 		</a>
 		
 		<div class="inews-item-content">
@@ -4713,7 +4713,7 @@ section.dark .event-item {
 					</li>
 				</ul>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....</p>
+				<p>Eruca Elevare dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....</p>
 			</div>
 			
 
@@ -4831,12 +4831,12 @@ section.dark .event-item {
 
 
 	<div class="team-item clearfix">
-		<img class="team-item-image rounded" src="assets/images/_smarty/demo/thematics/wedding/him-min.jpg" alt="wedding" width="150" height="150" />
+		<img class="team-item-image rounded" src="assets/images/_Rocket Elevators/demo/thematics/wedding/him-min.jpg" alt="wedding" width="150" height="150" />
 		
 		<div class="team-item-desc">
 			<h4 class="nomargin">MIKE BAKER</h4>
 			<h5><span>Groom</span></h5>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, pariatur, magni! Omnis reiciendis architecto, cupiditate fuga dolores nam accusamus iste molestias quos mollitia totam eius porro culpa incidunt, sunt rerum molestiae aliquid non hic.</p>
+			<p>Eruca Elevare dolor sit amet, consectetur adipisicing elit. Commodi, pariatur, magni! Omnis reiciendis architecto, cupiditate fuga dolores nam accusamus iste molestias quos mollitia totam eius porro culpa incidunt, sunt rerum molestiae aliquid non hic.</p>
 			<hr />
 
 			<!-- Social Icons -->
@@ -7198,7 +7198,7 @@ section#slider:not(.custom-form) .btn-default {
     display: inline-block;
     width: 22px;
     height: 22px;
-    background: url("../images/_smarty/plugins/slider.nivo/bullets.png")
+    background: url("../images/_Rocket Elevators/plugins/slider.nivo/bullets.png")
         no-repeat;
     text-indent: -9999px;
     border: 0;
@@ -8616,7 +8616,7 @@ section.dark.alternate .timeline .timeline-entry {
 .timeline_center {
     margin: 0;
     position: relative;
-    background: url("../images/_smarty/timeline/timeline_top.png") no-repeat top
+    background: url("../images/_Rocket Elevators/timeline/timeline_top.png") no-repeat top
         center;
     padding-top: 9px;
 }
@@ -8639,12 +8639,12 @@ section.dark.alternate .timeline .timeline-entry {
 .timeline_center li {
     padding: 0 0 25px 55%;
     position: relative;
-    background: url("../images/_smarty/timeline/timeline_right.png") no-repeat
+    background: url("../images/_Rocket Elevators/timeline/timeline_right.png") no-repeat
         top center;
 }
 .timeline_center li:nth-child(even) {
     padding: 0 55% 25px 0;
-    background: url("../images/_smarty/timeline/timeline_left.png") no-repeat
+    background: url("../images/_Rocket Elevators/timeline/timeline_left.png") no-repeat
         top center;
     text-align: right;
 }
@@ -8698,7 +8698,7 @@ section.dark.alternate .timeline .timeline-entry {
     top: 0;
 }
 .timeline_center li .timeline-desc.timeline-desc-line {
-    background: url("../images/_smarty/timeline/textline.png") repeat-y;
+    background: url("../images/_Rocket Elevators/timeline/textline.png") repeat-y;
 }
 .timeline_center li:nth-child(even) .timeline-desc:before {
     left: auto;
@@ -8719,7 +8719,7 @@ section.dark.alternate .timeline .timeline-entry {
     }
     .timeline_center li {
         padding: 0 0 25px 70px !important;
-        background: url("../images/_smarty/timeline/timeline_right.png")
+        background: url("../images/_Rocket Elevators/timeline/timeline_right.png")
             no-repeat !important;
         background-position: -30px top !important;
         width: auto;
@@ -9299,12 +9299,12 @@ section.dark-2.alternate {
 
 /* footer contact text */
 #footer address {
-    background: url("../images/_smarty/world-map.png") no-repeat center;
+    background: url("../images/_Rocket Elevators/world-map.png") no-repeat center;
 }
 #footer address .footer-sprite {
     margin-bottom: 20px;
     padding-left: 30px;
-    background: url("../images/_smarty/footer_sprite.png") no-repeat 0 0;
+    background: url("../images/_Rocket Elevators/footer_sprite.png") no-repeat 0 0;
 }
 #footer address .footer-sprite:last-child {
     margin-bottom: 0;
